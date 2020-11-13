@@ -1,6 +1,6 @@
 <?php
 define('HOST', 'localhost');
-define('USER', 'root');
+define('USER', 'root1');
 
 $conexion = 
     mysqli_connect(HOST,USER, 
